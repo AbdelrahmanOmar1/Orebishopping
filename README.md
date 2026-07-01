@@ -5,6 +5,9 @@ Developed as a **freelance project** with a focus on scalability, clean architec
 
 ---
 
+
+
+
 ## ✨ Features
 
 - 🖨️ Browse printers by categories
@@ -17,7 +20,11 @@ Developed as a **freelance project** with a focus on scalability, clean architec
 - ⚡ Fast and optimized performance
 
 ---
-
+## Preview
+![Preview](./preview/p1.png)
+![Preview](./preview/p2.png)
+![Preview](./preview/p3.png)
+![Preview](./preview/p4.png)
 ## 🛠️ Tech Stack
 
 - ⚛️ React.js (Hooks + Functional Components)
